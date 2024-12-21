@@ -1,2 +1,4 @@
 [tool.flet.android]
 split_per_abi = true 
+[tool.flet.android.meta_data]
+"com.google.android.gms.ads.APPLICATION_ID" = "ca-app-pub-951-076-3542"
