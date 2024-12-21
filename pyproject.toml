@@ -1,0 +1,2 @@
+[tool.flet.android]
+split_per_abi = true 
